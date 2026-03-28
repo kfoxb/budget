@@ -1,0 +1,18 @@
+{
+  "name": "budget",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "tsx src/sync.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ynab": "^2.6.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0"
+  }
+}
