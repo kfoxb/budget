@@ -7,7 +7,7 @@
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 	"features": {
 		"ghcr.io/devcontainers/features/github-cli:1": {},
-		"ghcr.io/devcontainers-extra/features/claude-code:1": {}
+		"ghcr.io/devcontainers-extra/features/claude-code:2": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
